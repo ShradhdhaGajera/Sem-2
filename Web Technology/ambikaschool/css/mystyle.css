@@ -1,0 +1,33 @@
+
+
+
+#main
+{
+	background-color : #800000;
+	color : #FFF;
+	width : 95%;
+	border : 2px yellow solid;
+	margin : auto;
+}
+
+#main #title
+{
+	color : #FFF;
+	font-size : 24pt;
+	text-align : center;
+}
+
+#main  #content
+{
+	color : #FFF;
+	min-height : 600px;
+	border-top : 1px #FFF solid;
+	border-bottom : 1px #FFF solid;
+}
+
+#main #footer
+{
+	color : #FFF;
+	font-size : 12pt;
+	text-align : center;
+}

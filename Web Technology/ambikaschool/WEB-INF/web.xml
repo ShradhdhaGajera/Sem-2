@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<web-app>
+	<display-name> Ambika School </display-name>
+	<welcome-file-list>
+		<welcome-file>home.htm</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+	</welcome-file-list>
+</web-app>
